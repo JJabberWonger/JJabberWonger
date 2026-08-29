@@ -17,7 +17,7 @@ $\color{#80341b}{ᴅɴɪ}$ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nb
 
 <div align="left"> 
 
-$\color{#872b12}{Nick}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{(˶>⩊<˶)}$  &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{Autistic}$ 
+$\color{#872b12}{Autstic}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{(˶>⩊<˶)}$  &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{Swedish}$ 
 
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ugkfgwtsvqn7ywo37fsxzesd24&redirect=true">
