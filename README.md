@@ -21,6 +21,6 @@ $\color{#872b12}{Nick}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbs
 
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ugkfgwtsvqn7ywo37fsxzesd24&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ugkfgwtsvqn7ywo37fsxzesd24&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=c75833&bar_color_cover=false&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ugkfgwtsvqn7ywo37fsxzesd24&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ba431c&bar_color_cover=false">
   </a>
 </p>
